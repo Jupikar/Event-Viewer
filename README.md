@@ -41,7 +41,7 @@ DNS Client Events
 
 ### Fichier inclus
 
-DNS_Custom_View.xml : Fichier XML exporté de l'Event Viewer contenant la configuration de la vue personnalisée.
+Logs-DNS.xml : Fichier XML exporté de l'Event Viewer contenant la configuration de la vue personnalisée.
 
 Instructions d'importation
 
@@ -49,7 +49,7 @@ Ouvrez l'Event Viewer sur votre machine Windows Server.
 
 Faites un clic droit sur Vues personnalisées dans le panneau de gauche, puis sélectionnez Importer une vue....
 
-Sélectionnez le fichier DNS_Custom_View.xml fourni dans ce dépôt.
+Sélectionnez le fichier Logs-DNS.xml fourni dans ce dépôt.
 
 La vue sera ajoutée sous un nom descriptif, tel que Surveillance DNS - Vue personnalisée.
 
